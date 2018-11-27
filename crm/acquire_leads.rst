@@ -1,5 +1,5 @@
 =============
-Acquire leads
+Adquirir prospectos
 =============
 
 .. toctree::
