@@ -1,5 +1,5 @@
 =============================
-Optimize your Day-to-Day work
+Otimize seu trabalho no dia-a-dia
 =============================
 
 .. toctree::
