@@ -1,5 +1,5 @@
 =====================
-Organize the pipeline 
+Organize o pipeline 
 =====================
 
 .. toctree::
