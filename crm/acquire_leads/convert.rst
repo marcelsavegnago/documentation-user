@@ -3,7 +3,7 @@ Converta leads em oportunidades
 ================================
 
 O sistema pode gerar prospectos em vez de oportunidades, a fim de adicionar
-uma etapa de qualificação antes de converter um * Prospecto * em um * Oportunidade * 
+uma etapa de qualificação antes de converter um *Prospecto* em um *Oportunidade* 
 e atribuir ao pessoal de vendas certo. Você pode ativar este modo a partir das 
 configurações do CRM. Aplica-se a todos seus canais de venda por padrão. Mas você 
 pode especificá-lo para canais específicos no formulário de de configuração.
