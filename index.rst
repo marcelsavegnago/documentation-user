@@ -1,5 +1,5 @@
 =======================
-Odoo User Documentation
+Odoo Documentaço de Usuário
 =======================
 
 .. rst-class:: index-tree
