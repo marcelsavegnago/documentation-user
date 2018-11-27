@@ -1,35 +1,34 @@
 ===============
-Send quotations
+Enviar cotações
 ===============
 
-When you qualified one of your lead into an opportunity you will most
-likely need to them send a quotation. You can directly do this in the
-CRM App with Odoo.
+Quando você qualificou um dos seus leads em uma oportunidade, provavelmente 
+será necessário que eles enviem uma cotação. Você pode fazer isso diretamente 
+no aplicativo CRM com Odoo.
 
 .. image:: media/send_quotes01.png
     :align: center
 
-Create a new quotation
+Criando uma nova cotação
 ======================
 
-By clicking on any opportunity or lead, you will see a *New Quotation*
-button, it will bring you into a new menu where you can manage your
-quote.
+Ao clicar em qualquer oportunidade ou prospecto, você verá um botão *Nova cotação*, 
+que o levará a um novo menu onde você poderá gerenciar sua cotação.
 
 .. image:: media/send_quotes02.png
     :align: center
 
-You will find all your quotes to that specific opportunity under the
-*Quotations* menu on that page.
+Você encontrará todas as suas cotações para essa oportunidade específica no menu 
+*Cotações* dessa página.
 
 .. image:: media/send_quotes03.png
     :align: center
 
-Mark them won/lost
+Marque-os como ganhos/perdidos
 ==================
 
-Now you will need to mark your opportunity as won or lost to move the
-process along.
+Agora você precisará marcar sua oportunidade como ganhado ou perdido para levar o 
+processo adiante.
 
-If you mark them as won, they will move to your *Won* column in your
-Kanban view. If you however mark them as *Lost* they will be archived.
+Se você marcá-los como ganhos, eles serão movidos para a coluna *Ganho* em sua exibição 
+Kanban. Se você, no entanto, marcá-los como *Perdidos*, eles serão arquivados.
