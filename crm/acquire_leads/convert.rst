@@ -1,19 +1,18 @@
 ================================
-Convert leads into opportunities
+Converta leads em oportunidades
 ================================
 
-The system can generate leads instead of opportunities, in order to add
-a qualification step before converting a *Lead* into an
-*Opportunity* and assigning to the right sales people. You can
-activate this mode from the CRM Settings. It applies to all your sales
-channels by default. But you can make it specific for specific channels
-from their configuration form.
+O sistema pode gerar prospectos em vez de oportunidades, a fim de adicionar
+uma etapa de qualificação antes de converter um * Prospecto * em um * Oportunidade * 
+e atribuir ao pessoal de vendas certo. Você pode ativar este modo a partir das 
+configurações do CRM. Aplica-se a todos seus canais de venda por padrão. Mas você 
+pode especificá-lo para canais específicos no formulário de de configuração.
 
-Configuration
+Configuração
 =============
 
-For this feature to work, go to :menuselection:`CRM --> Configuration --> Settings`
-and activate the *Leads* feature.
+Para esse recurso funcionar, vá para :menuselection:`CRM --> Configuration --> Settings`
+e ative a funcionalidade *Leads*.
 
 .. image:: media/convert01.png
     :align: center
@@ -24,7 +23,7 @@ will aggregate.
 .. image:: media/convert02.png
     :align: center
 
-Convert a lead into an opportunity
+Converta um prospecto em uma oportunidadeConvert a lead into an opportunity
 ==================================
 
 When you click on a *Lead* you will have the option to convert it to
